@@ -12,13 +12,35 @@
 ### send_rc_control()
 #### yaw:
   1. yaw = 40, time.sleep(10):  
-    -133, 117, 7, -99  
-    -102, 152, 38, -60  
-    -102, 151, 44, -70, 174  
-  2. yaw = 60, time.slepp(10):  
-    70, 148, -117, -38  
-  3. yaw = 20, time.sleep(10):  
-    77, 172, -105, -9, 61  
-  4. yaw = 40, time.sleep(5):  
-    122, -112, 13, 141  
-     
+     **Data:** -133, 117, 7, -99  
+     **Degree of each yaw:** 250, 250, 254  
+     **Average Degree:** 251.33
+     __________________________________________  
+     **Data:** -102, 152, 38, -60  
+     **Degree of each yaw:** 254, 246, 262  
+     **Average Degree:** 254
+     __________________________________________  
+     **Data:** -102, 151, 44, -70, 174  
+     **Degree of each yaw:** 253, 253, 246, 244  
+     **Average Degree:** 249
+     __________________________________________  
+  3. yaw = 60, time.slepp(10):  
+     **Data:** 70, 148, -117, -38  
+     **Degree of each yaw:** 438, 455, 439  
+     **Average Degree:** 444
+     __________________________________________  
+  5. yaw = 20, time.sleep(10):  
+     **Data:** 77, 172, -105, -9  
+     **Degree of each yaw:** 95, 83, 96  
+     **Average Degree:** 91.33
+     __________________________________________  
+  7. yaw = 40, time.sleep(5):  
+     **Data:** 122, -112, 13, 141  
+     **Degree of each yaw:** 126, 125, 128  
+     **Average Degree:** 126.33
+     __________________________________________
+**Possible function(Need more test) :** 
+$$  
+f(yaw, time) = (0.00325 \cdot yaw^2 + 0.615 \cdot yaw - 4.6) \cdot time  
+$$
+
