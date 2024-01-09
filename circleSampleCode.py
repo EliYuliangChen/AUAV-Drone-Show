@@ -5,7 +5,6 @@ import cv2
 
 tello = Tello()
 tello.connect()
-
 print(tello.get_battery())
 tello.takeoff()
 
@@ -14,6 +13,7 @@ while True:
     # which is related to the rotation degree(yaw velocity).
     # duration = 360 / rotation degree.
     # Rotation degree is related to yaw velocity and is recorded in the resource.md file.
+    # yaw = 20, degree = 9/s; yaw = 40, degree = 25/s; yaw = 60, degree = 44.5/s; yaw = 100, degree = 90/s
     duration = 14.5
     command = input("Enter command: ")
     if command == "u":
