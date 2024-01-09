@@ -39,8 +39,7 @@
      **Degree of each yaw:** 126, 125, 128  
      **Average Degree:** 126.33
      __________________________________________
-**Possible function(Need more test) :** 
-$$  
-f(yaw, time) = (0.00325 \cdot yaw^2 + 0.615 \cdot yaw - 4.6) \cdot time  
-$$
+**Possible function(Need more test) :**   
+![image](https://github.com/EliYuliangChen/AUAV-Drone-Show/assets/105672972/d1a4298e-f531-4002-956d-1c04d41d15a4)
+
 
