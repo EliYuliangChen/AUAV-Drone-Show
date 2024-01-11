@@ -6,7 +6,11 @@
   3. https://www.youtube.com/watch?v=phRbd1eEbEU 
   4. https://www.youtube.com/watch?v=S84oYiH0L4o
 ### Articles Related to Drone Show
-  1. https://www.ostirion.net/post/automated-drone-flight-circular-flight 
+  1. https://www.ostirion.net/post/automated-drone-flight-circular-flight
+### DJI Tello TT
+  1. https://www.dji.com/ca/robomaster-tt/downloads
+  2. https://pan-link.djicorp.com/s/ZBWWPZGEs945NNQ
+     password: DJIedu2020
 
 ## Parameters
 ### send_rc_control()
