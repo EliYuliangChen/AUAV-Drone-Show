@@ -9,9 +9,10 @@
   1. https://www.ostirion.net/post/automated-drone-flight-circular-flight
 ### DJI Tello TT
   1. https://dl.djicdn.com/downloads/RoboMaster+TT/RoboMaster_TT_Swarm_Combo_User_Guide.pdf
-  2. https://www.dji.com/ca/robomaster-tt/downloads
-  3. https://pan-link.djicorp.com/s/ZBWWPZGEs945NNQ
+  2. https://www.dji.com/ca/robomaster-tt/downloads  
+  3. https://pan-link.djicorp.com/s/ZBWWPZGEs945NNQ  
      password: DJIedu2020
+  4. https://robomaster-dev.readthedocs.io/zh-cn/latest/python_sdk/multi_robot_drone_example.html  
 
 ## Parameters
 ### send_rc_control()
