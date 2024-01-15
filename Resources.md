@@ -46,6 +46,7 @@
      **Average Degree:** 126.33
      __________________________________________
 **Possible function(Need more test) :**   
-![image](https://github.com/EliYuliangChen/AUAV-Drone-Show/assets/105672972/d1a4298e-f531-4002-956d-1c04d41d15a4)
+![image](https://github.com/EliYuliangChen/AUAV-Drone-Show/assets/105672972/ccd8d099-3181-45f3-b63c-14493d53cedf)
+
 
 
